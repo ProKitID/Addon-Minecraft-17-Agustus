@@ -1,0 +1,67 @@
+{
+  "format_version": 2,
+  "metadata": {
+    "authors": [
+      "ProjectKitaID"
+    ]
+  },
+  "header": {
+    "name": "pack.prokitid.name",
+    "description": "pack.prokitid.description",
+    "min_engine_version": [
+      1,
+      19,
+      60
+    ],
+    "uuid": "fbe70a6e-4cad-41ee-a308-d749b8320aca",
+    "version": [
+      0,
+      0,
+      1
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "dfec1d8a-6a93-4e27-acc2-e986f6de646c",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "5fd549bd-c224-48c8-b7cb-f592eadf3135",
+      "entry": "scripts/prokitid.js",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "54611fd1-8214-4828-9606-094db8d085b9",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.1.0-beta"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "2.1.0-beta"
+    },
+    {
+      "module_name": "@minecraft/common",
+      "version": "1.1.0"
+    }
+  ]
+}

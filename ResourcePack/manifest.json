@@ -1,0 +1,44 @@
+{
+  "format_version": 2,
+  "metadata": {
+    "authors": [
+      "ProjectKitaID"
+    ]
+  },
+  "header": {
+    "name": "pack.prokitid.name",
+    "description": "pack.prokitid.description",
+    "min_engine_version": [
+      1,
+      20,
+      90
+    ],
+    "uuid": "54611fd1-8214-4828-9606-094db8d085b9",
+    "version": [
+      0,
+      0,
+      1
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "03d5485a-cbb9-4d53-b217-d3c8e60fcb50",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "fbe70a6e-4cad-41ee-a308-d749b8320aca",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
