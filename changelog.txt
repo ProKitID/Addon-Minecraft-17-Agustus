@@ -1,1 +1,1 @@
-see https://github.com/ProKitID/minecraft-17agustus-addon/changelog.md
+see https://github.com/ProKitID/minecraft-17agustus-addon/blob/main/changelog.md
