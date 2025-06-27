@@ -9,3 +9,6 @@
   • removed BehaviorPack/texts
   • add multilangguage support(ResourcePack/texts)
   • change some file & fixed some bugs
+
+• #3
+  • fixed bug
