@@ -8,4 +8,4 @@
   • add some file
   • removed BehaviorPack/texts
   • add multilangguage support(ResourcePack/texts)
-  • change some file & fixed bugs
+  • change some file & fixed some bugs
