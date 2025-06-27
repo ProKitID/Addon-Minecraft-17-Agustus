@@ -4,20 +4,20 @@
   "padding": 8,
   "num_mip_levels": 4,
   "texture_data": {
-    "pole_hitam": {
-      "textures": "textures/blocks/pole/hitam.png"
+    "block:pole_black": {
+      "textures": "textures/blocks/pole/black.png"
     },
-    "pole_merah": {
-      "textures": "textures/blocks/pole/merah.png"
+    "block:pole_red": {
+      "textures": "textures/blocks/pole/red.png"
     },
-    "pole_putih": {
-      "textures": "textures/blocks/pole/putih.png"
+    "block:pole_white": {
+      "textures": "textures/blocks/pole/white.png"
     },
-    "pole_merahputih": {
-      "textures": "textures/blocks/pole/merahputih.png"
+    "block:pole_rednwhite": {
+      "textures": "textures/blocks/pole/rednwhite.png"
     },
-    "bendera": {
-      "textures": "textures/blocks/bendera.png"
+    "block:flag": {
+      "textures": "textures/blocks/flag.png"
     }
   }
 }

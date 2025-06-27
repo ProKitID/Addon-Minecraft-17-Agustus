@@ -1,0 +1,53 @@
+{
+  "format_version": "1.21.90",
+  "minecraft:crafting_items_catalog": {
+    "categories": [
+      {
+        "category_name": "construction",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "prokitid:pole",
+              "name": "prokitid:itemGroup.name.17agust.blocks"
+            },
+            "items": [
+              "prokitid:pole",
+              "prokitid:flag"
+            ]
+          }
+        ]
+      },
+      {
+        "category_name": "items",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "prokitid:flag_item",
+              "name": "prokitid:itemGroup.name.17agust.items"
+            },
+            "items": [
+              "prokitid:flag_item",
+              "prokitid:testitem"
+            ]
+          },
+          {
+            "group_identifier": {
+              "icon": "minecraft:allow",
+              "name": "prokitid:itemGroup.name.secretblock"
+            },
+            "items": [
+              "minecraft:allow",
+              "minecraft:barrier",
+              "minecraft:border_block",
+              "minecraft:camera",
+              "minecraft:deny",
+              "minecraft:jigsaw",
+              "minecraft:structure_block",
+              "minecraft:structure_void"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,2 +1,10 @@
-pack.name=ADD-ON #PlaceHolder
-pack.description=§c- Created by AerellDev - §rSelamat hari kemerdekaan Indonesia ke 80!.
+prokitid.pack.name=ADD-ON #PlaceHolder
+prokitid.pack.description=§c- Created By Team ProKitID - §rHappy 80th Indonesian Independence Day!.
+
+prokitid:itemGroup.name.secretblock=Secret Blocks and Items
+prokitid:itemGroup.name.17agust.items=August 17th Special Items
+prokitid:itemGroup.name.17agust.blocks=August 17th Special Block
+
+tile.prokitid:pole.name=Pole
+tile.prokitid:flag.name=Flag Block
+item.prokitid:flag_item=Flag

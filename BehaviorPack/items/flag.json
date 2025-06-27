@@ -1,0 +1,28 @@
+{
+  "format_version": "1.21.90",
+  "minecraft:item": {
+    "description": {
+      "identifier": "prokitid:flag_item",
+      "menu_category": {
+        "category": "items",
+        "group": "prokitid:itemGroup.name.17agust.items"
+      }
+    },
+    "components": {
+      "minecraft:max_stack_size": 1,
+      "minecraft:icon": {
+        "textures": {
+          "default": "item:flag"
+        }
+      },
+      "minecraft:wearable": {
+        "slot": "slot.weapon.offhand",
+        "protection": 4
+      },
+      "minecraft:enchantable": {
+        "slot": "all",
+        "value": 50
+      }
+    }
+  }
+}

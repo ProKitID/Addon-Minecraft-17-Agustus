@@ -1,7 +1,7 @@
 {
-	"texture_data": {
-		"bendera_item": {
-			"textures": "textures/items/bendera_item.png"
-		}
-	}
+  "texture_data": {
+    "item:flag": {
+      "textures": "textures/items/flag.png"
+    }
+  }
 }

@@ -1,0 +1,10 @@
+prokitid.pack.name=ADD-ON #PlaceHolder
+prokitid.pack.description=§c- Dibuat Oleh Tim ProKitID - §rSelamat hari kemerdekaan indonesia ke 80!.
+
+prokitid:itemGroup.name.secretblock=Blok & Benda Rahasia
+prokitid:itemGroup.name.17agust.items=Barang Spesial 17 agustus
+prokitid:itemGroup.name.17agust.blocks=Blok  Spesial 17 agustus
+
+tile.prokitid:pole.name=Tiang
+tile.prokitid:flag.name=Blok Bendera
+item.prokitid:flag_item=Bendera

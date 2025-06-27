@@ -6,8 +6,8 @@
     ]
   },
   "header": {
-    "name": "pack.prokitid.name",
-    "description": "pack.prokitid.description",
+    "name": "prokitid.pack.name",
+    "description": "prokitid.pack.description",
     "min_engine_version": [
       1,
       19,
