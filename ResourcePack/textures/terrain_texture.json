@@ -1,0 +1,23 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "pole_hitam": {
+      "textures": "textures/blocks/pole/hitam.png"
+    },
+    "pole_merah": {
+      "textures": "textures/blocks/pole/merah.png"
+    },
+    "pole_putih": {
+      "textures": "textures/blocks/pole/putih.png"
+    },
+    "pole_merahputih": {
+      "textures": "textures/blocks/pole/merahputih.png"
+    },
+    "bendera": {
+      "textures": "textures/blocks/bendera.png"
+    }
+  }
+}

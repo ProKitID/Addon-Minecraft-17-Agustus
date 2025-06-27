@@ -1,0 +1,9 @@
+{
+  "format_version": "1.21.0",
+  "prokitid:pole": {
+    "sound": "stone"
+  },
+  "prokitid:bendera": {
+    "sound": "wood"
+  }
+}

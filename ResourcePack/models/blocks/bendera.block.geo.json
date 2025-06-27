@@ -1,0 +1,179 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:geometry": [
+    {
+      "description": {
+        "identifier": "geometry.prokitid.17agustus.bendera",
+        "texture_width": 64,
+        "texture_height": 64,
+        "visible_bounds_width": 3,
+        "visible_bounds_height": 2.5,
+        "visible_bounds_offset": [
+          0,
+          0.75,
+          0
+        ]
+      },
+      "bones": [
+        {
+          "name": "main",
+          "pivot": [
+            1,
+            0,
+            6
+          ],
+          "cubes": [
+            {
+              "origin": [
+                -2,
+                2,
+                9
+              ],
+              "size": [
+                4,
+                12,
+                3
+              ],
+              "uv": {
+                "north": {
+                  "uv": [
+                    0,
+                    16
+                  ],
+                  "uv_size": [
+                    8,
+                    32
+                  ]
+                },
+                "east": {
+                  "uv": [
+                    24,
+                    16
+                  ],
+                  "uv_size": [
+                    8,
+                    32
+                  ]
+                },
+                "south": {
+                  "uv": [
+                    8,
+                    16
+                  ],
+                  "uv_size": [
+                    8,
+                    32
+                  ]
+                },
+                "west": {
+                  "uv": [
+                    24,
+                    16
+                  ],
+                  "uv_size": [
+                    -8,
+                    32
+                  ]
+                },
+                "up": {
+                  "uv": [
+                    24,
+                    8
+                  ],
+                  "uv_size": [
+                    -8,
+                    -8
+                  ]
+                },
+                "down": {
+                  "uv": [
+                    24,
+                    8
+                  ],
+                  "uv_size": [
+                    -8,
+                    -8
+                  ]
+                }
+              }
+            },
+            {
+              "origin": [
+                -1,
+                3,
+                -9
+              ],
+              "size": [
+                2,
+                10,
+                18
+              ],
+              "uv": {
+                "north": {
+                  "uv": [
+                    32,
+                    0
+                  ],
+                  "uv_size": [
+                    32,
+                    16
+                  ]
+                },
+                "east": {
+                  "uv": [
+                    32,
+                    16
+                  ],
+                  "uv_size": [
+                    32,
+                    16
+                  ]
+                },
+                "south": {
+                  "uv": [
+                    64,
+                    32
+                  ],
+                  "uv_size": [
+                    -32,
+                    16
+                  ]
+                },
+                "west": {
+                  "uv": [
+                    64,
+                    48
+                  ],
+                  "uv_size": [
+                    -32,
+                    16
+                  ]
+                },
+                "up": {
+                  "uv": [
+                    32,
+                    64
+                  ],
+                  "uv_size": [
+                    -16,
+                    -16
+                  ]
+                },
+                "down": {
+                  "uv": [
+                    0,
+                    64
+                  ],
+                  "uv_size": [
+                    16,
+                    -16
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
