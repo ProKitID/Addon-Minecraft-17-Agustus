@@ -11,12 +11,12 @@ RP_TARGET="$DEVELOPMENT_RESOURCE_PACKS/${ADDON_NAME} - RP"
 
 # Remove old BP
 if [ -d "$BP_TARGET" ]; then
-    rm -rf "$BP_TARGET" && echo "Removed old BP folder: $BP_TARGET" || echo "❌ Failed to remove BP folder: $BP_TARGET"
+    rm -rf "$BP_TARGET" && echo "Removed old BP folder: $BP_TARGET" || echo "Failed to remove BP folder: $BP_TARGET"
 fi
 
 # Remove old RP
 if [ -d "$RP_TARGET" ]; then
-    rm -rf "$RP_TARGET" && echo "Removed old RP folder: $RP_TARGET" || echo "❌ Failed to remove RP folder: $RP_TARGET"
+    rm -rf "$RP_TARGET" && echo "Removed old RP folder: $RP_TARGET" || echo "Failed to remove RP folder: $RP_TARGET"
 fi
 
 # Copy new BP
