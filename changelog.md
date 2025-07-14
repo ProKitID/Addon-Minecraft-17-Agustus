@@ -1,5 +1,6 @@
 # 26 Jun 2025
 • First Init!
+
 # 27 Jun 2025
 • #1: 
   • add some file
